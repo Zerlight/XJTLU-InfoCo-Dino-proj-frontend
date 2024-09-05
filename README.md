@@ -2,6 +2,14 @@
 
  The frontend part of XJTLU-InfoCo-Dino-proj, used on Autumn Fresher's Fair, Sep. 4, 2024.
 
+![screenshot-main](https://github.com/user-attachments/assets/2e51dafe-26ed-4441-9321-38f92a8e33b1)
+
+## Features
+
+- Play dino with internal mods or execute your own js codes!
+- A self-made macOS-styled integrated and emulated file picker.
+- Basic window manager and file manager functions.
+
 ## Requirements
 
 In order to run this project, you need to install the latest LTS version of Node.JS.
