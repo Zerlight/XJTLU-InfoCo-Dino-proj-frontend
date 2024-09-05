@@ -1,0 +1,17 @@
+{
+  "name": "XJTLU-InfoCo-Dino-proj-frontend",
+  "version": "1.0.0",
+  "description": "Analyze and change to Google Chrome Dinosaur Easter Egg.",
+  "main": "server.js",
+  "type": "module",
+  "repository": "https://github.com/Zerlight/XJTLU-InfoCo-Dino-proj-frontend.git",
+  "author": "Zerlight",
+  "license": "Apache-2.0",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}

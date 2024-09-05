@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>InfoCo Dino Project</title>
+    <script src="./js/index.js"></script>
+    <script src="./lib/Sortable.min.js"></script>
+    <script src="./lib/vs/loader.js"></script>
+    <script src="./lib/dino/runner.js"></script>
+    <link rel="stylesheet" href="./css/index.css" />
+    <link rel="stylesheet" href="./css/macos_window/style.css" />
+  </head>
+  <body>
+    <div class="taskbar">
+      <div style="display: flex" id="taskbar-apps"></div>
+      <div class="app" onclick="location.reload();">
+        <div class="app-icon">
+          <img
+            src="./res/reset_wrench_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg"
+            alt="icon"
+          />
+        </div>
+        <div class="app-indicator"></div>
+      </div>
+    </div>
+    <div class="container"></div>
+  </body>
+</html>

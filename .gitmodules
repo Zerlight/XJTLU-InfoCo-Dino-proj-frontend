@@ -1,0 +1,3 @@
+[submodule "InfoCo-Dino"]
+	path = InfoCo-Dino
+	url = https://github.com/InfoCo-XJTLU/XJTLU-InfoCo-Dino-proj.git
